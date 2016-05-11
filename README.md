@@ -231,3 +231,6 @@ Source: [eHowStuff](http://www.ehowstuff.com/how-to-install-and-use-glances-syst
 Note: If getting an internal server erroe, check the Apache error files:
 Source: [A2 Hosting](https://www.a2hosting.com/kb/developer-corner/apache-web-server/viewing-apache-log-files)
 `$ sudo tail -20 /var/log/apache2/error.log` is a good help for debugging
+
+
+Special Thanks to [iliketomatoes](https://github.com/iliketomatoes/) and [stueken](https://github.com/stueken) who wrote really helpful documents.
